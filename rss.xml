@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RoleplayingGames]]></title>
+        <description><![CDATA[RoleplayingGames]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jul 2016 06:08:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is a Roleplaying Game]]></title>
+            <description><![CDATA[<article><h1>What is a Roleplaying Game</h1><p>Roleplaying Games (RPGs) are a systematic method of creating a collaborative game-play experience that creates a story or a series of events that can be recalled at the conclusion of each session of play. </p></article>]]></description>
+            <link>undefinedwhat-is-a-roleplaying-game/index.html</link>
+            <guid isPermaLink="false">e18bfdd7-bd72-4749-a878-c55b49f3cf0c</guid>
+            <pubDate>Mon, 04 Jul 2016 06:08:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
